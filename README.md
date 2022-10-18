@@ -18,6 +18,6 @@ Bölme işlemimizi bitirdik. Şimdi ise her bir grubu tekrar sıralı bir şekil
 | Son birleştirmeyle dizimizi elde ettik. |    |    |    |  8 | 11 | 12 | 16 | 21 | 22 |    |   |   |
 
 
-## Big-O gösterimini yazınız.
+### Big-O gösterimini yazınız.
 - Merge Sort bir Böl ve Fethet (Divide and Conquer Algorithm) algoritmasıdır. Big-O gösterimi ise O(nlogn) dir. Sebebi ise dizinin tekrar tekrar ikiye bölünmesidir.
 
