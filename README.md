@@ -2,7 +2,7 @@
 [Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin 2. projesidir.
 
 ### [16,21,11,8,12,22] -> Merge Sort
-- Yukarıdaki dizinin sort türüne göre aşamaları yazınız.
+### Yukarıdaki dizinin sort türüne göre aşamaları yazınız.
 
 | Dizinin Normal Hali                    |    |    |    | 16 | 21 | 11 | 8 | 12 | 22 |    |    |    |
 |----------------------------------------|----|----|----|----|----|----|---|----|----|----|----|----|
